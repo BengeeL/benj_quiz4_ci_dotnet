@@ -1,5 +1,5 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
+﻿/MyCoreApp/.vs/MyCoreApp
 
-/MyCoreApp/.vs/MyCoreApp
+
+/obj
+/Properties
